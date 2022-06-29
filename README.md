@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sergio</h1>
 <h3 align="center">🌟FullStack Developer🌟</h3>
-<p><img align="center" src="./Kroquetita.png" alt="Kroquetitaa" /></p>
+<p align="center"><img src="./Kroquetita.png" alt="Kroquetitaa" /></p>
 <br>
 <p align="center">- 🌱 I’m currently learning Web Development and other programming languages for funny and entertaiment</p>
 <p align="center">- 📫 How to reach me **sergiofuentes566@gmail.com**</p>
