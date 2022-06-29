@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergio</h1>
-<h3 align="center">🌟Student on Retamar and BootCamp Neoland🌟</h3>
+<h3 align="center">🌟FullStack Developer🌟</h3>
 <p><img align="center" src="./Kroquetita.png" alt="Kroquetitaa" /></p>
 <br>
 <p align="center">- 🌱 I’m currently learning Web Development and other programming languages for funny and entertaiment</p>
