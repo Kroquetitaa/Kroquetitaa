@@ -82,11 +82,7 @@ I build modern web and mobile applications with a strong focus on clean code, pe
 
 <br/>
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kroquetitaa&show_icons=true&layout=compact&bg_color=0d1117&text_color=ffffff" />
-</p>
+<h3 align="center">📊 GitHub Streak Stats</h3>
 
 <br/>
 
@@ -96,7 +92,7 @@ I build modern web and mobile applications with a strong focus on clean code, pe
 <img src="https://github-readme-stats.vercel.app/api?username=Kroquetitaa&show_icons=true&bg_color=0d1117&text_color=ffffff" />
 </td>
 <td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kroquetitaa&theme=dark&background=0d1117" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=kroquetitaa&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 </td>
 </tr>
 </table>
