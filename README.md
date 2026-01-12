@@ -92,7 +92,7 @@ I build modern web and mobile applications with a strong focus on clean code, pe
 <img src="https://github-readme-stats.vercel.app/api?username=Kroquetitaa&show_icons=true&bg_color=0d1117&text_color=ffffff" />
 </td>
 <td>
-[![GitHub Streak](https://streak-stats.demolab.com?user=kroquetitaa&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=kroquetitaa&theme=dark&background=0d1117&hide_border=true" alt="GitHub Streak" /></a>
 </td>
 </tr>
 </table>
